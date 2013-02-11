@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		458583DA16C9394600998244 /* NewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 458583D916C9394600998244 /* NewViewController.m */; };
 		57AD9D8416C51535003E058D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57AD9D8316C51535003E058D /* UIKit.framework */; };
 		57AD9D8616C51535003E058D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57AD9D8516C51535003E058D /* Foundation.framework */; };
 		57AD9D8816C51535003E058D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57AD9D8716C51535003E058D /* CoreGraphics.framework */; };
@@ -22,6 +23,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		458583D816C9394600998244 /* NewViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewViewController.h; sourceTree = "<group>"; };
+		458583D916C9394600998244 /* NewViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewViewController.m; sourceTree = "<group>"; };
 		57AD9D8016C51535003E058D /* TryGitSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TryGitSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		57AD9D8316C51535003E058D /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		57AD9D8516C51535003E058D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -88,6 +91,8 @@
 				57AD9D9216C51535003E058D /* AppDelegate.h */,
 				57AD9D9316C51535003E058D /* AppDelegate.m */,
 				57AD9D9B16C51535003E058D /* MainStoryboard_iPhone.storyboard */,
+				458583D816C9394600998244 /* NewViewController.h */,
+				458583D916C9394600998244 /* NewViewController.m */,
 				57AD9D9E16C51535003E058D /* MainStoryboard_iPad.storyboard */,
 				57AD9DA116C51535003E058D /* ViewController.h */,
 				57AD9DA216C51535003E058D /* ViewController.m */,
@@ -180,6 +185,7 @@
 				57AD9D9016C51535003E058D /* main.m in Sources */,
 				57AD9D9416C51535003E058D /* AppDelegate.m in Sources */,
 				57AD9DA316C51535003E058D /* ViewController.m in Sources */,
+				458583DA16C9394600998244 /* NewViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -312,6 +318,7 @@
 				57AD9DA816C51535003E058D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
