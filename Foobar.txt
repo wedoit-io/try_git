@@ -1,1 +1,3 @@
 Try this new thing...
+Hello, World\! ;-)
+Ciao, Mondo! ;-)
