@@ -3,6 +3,7 @@ Ciao, Mondo! ;-)
 Try this new thing...
 Modifica branch1
 
-Proba Modifica e.ben
+
+try git diff
 
 # update file from windows machine - git with source tree
