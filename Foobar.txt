@@ -3,7 +3,5 @@ Ciao, Mondo! ;-)
 Try this new thing...
 Modifica branch1
 
-
-try git diff
-
+continue on master...
 # update file from windows machine - git with source tree
