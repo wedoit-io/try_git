@@ -4,4 +4,8 @@ modifica senza nussun commit
 
 #modifica al master 14.33
 
+<<<<<<< HEAD
 #modifica al master 15.02
+=======
+#modifica time 14.59 branch_01
+>>>>>>> branch_01
